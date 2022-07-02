@@ -12483,7 +12483,8 @@ h3.title-main:after {
   }
   .banner-19 .main-content h5 {
     font-size: 23px;
-    line-height: 15px;
+    line-height: 65px;
+    letter-spacing: 11px;
   }
   .banner-19 .banner-layer {
     min-height: 680px;
@@ -12495,7 +12496,11 @@ h3.title-main:after {
     font-size: 40px;
     line-height: 50px;
   }
-
+  .banner-19 .main-content h5 {
+    font-size: 23px;
+    line-height: 22px;
+    letter-spacing: 8.5px;
+  }
   .banner-19 .banner-layer {
     min-height: 600px;
   }
@@ -12506,12 +12511,21 @@ h3.title-main:after {
     font-size: 35px;
     line-height: 45px;
   }
+  .banner-19 .main-content h5 {
+    font-size: 17px;
+    line-height: 22px;
+  }
 }
 
 @media (max-width: 384px) {
   .banner-19 .main-content h4 {
     font-size: 30px;
     line-height: 40px;
+  }
+  .banner-19 .main-content h5 {
+    font-size: 22px;
+    line-height: 22px;
+    letter-spacing: 3.5px;
   }
 
   .brk-btn {
