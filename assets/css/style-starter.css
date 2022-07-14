@@ -11030,7 +11030,7 @@ a.text-dark:focus {
   --border-color-light: #eee;
   --iframe-filter: grayscale(0%);
   --bg-grey: #f9f9f9;
-  --bg-light: #fbfbfb;
+  --bg-light: #ECECEC;
   --bg-dark-color: #fff;
   --footer-sub-color: #333;
   --disable-color: #d8d6d6;
@@ -12449,15 +12449,15 @@ h3.title-main:after {
 
 .banner-19 .main-content h4 {
   font-size: 70px;
-  line-height: 88px;
+  line-height: 85px;
   color: #fff;
   font-weight: 700;
 }
 
 .banner-19 .main-content h5 {
   color: #fff;
-  font-size: 50px; 
-  letter-spacing: 8.5px;
+  font-size: 29px; 
+  line-height: 20px;
 }
 .banner-19 .main-content p {
   color: #fff;
@@ -12472,19 +12472,18 @@ h3.title-main:after {
 
 @media (max-width: 1024px) {
   .banner-19 .banner-layer {
-    min-height: 720px;
+    height: 420px;
   }
 }
 
 @media (max-width: 992px) {
   .banner-19 .main-content h4 {
     font-size: 45px;
-    line-height: 5px;
+    line-height: 15px;
   }
   .banner-19 .main-content h5 {
-    font-size: 23px;
-    line-height: 65px;
-    letter-spacing: 11px;
+    font-size: 18.5px;
+    line-height: 62px;
   }
   .banner-19 .banner-layer {
     min-height: 680px;
@@ -12497,9 +12496,8 @@ h3.title-main:after {
     line-height: 50px;
   }
   .banner-19 .main-content h5 {
-    font-size: 23px;
-    line-height: 22px;
-    letter-spacing: 8.5px;
+    font-size: 16.5px;
+    line-height: 12px;
   }
   .banner-19 .banner-layer {
     min-height: 600px;
@@ -12512,8 +12510,8 @@ h3.title-main:after {
     line-height: 45px;
   }
   .banner-19 .main-content h5 {
-    font-size: 17px;
-    line-height: 22px;
+    font-size: 14.5px;
+    line-height: 12px;
   }
 }
 
@@ -12523,9 +12521,8 @@ h3.title-main:after {
     line-height: 40px;
   }
   .banner-19 .main-content h5 {
-    font-size: 22px;
-    line-height: 22px;
-    letter-spacing: 3.5px;
+    font-size: 12.5px;
+    line-height: 12px;
   }
 
   .brk-btn {
